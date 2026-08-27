@@ -3,7 +3,5 @@
   "extends": ["config:recommended"],
   "assignees": ["azariasb"],
   "minimumReleaseAge": "7 days",
-  "timezone": "Europe/Paris",
-  "internalChecksFilter": "strict",
-  "prCreation": "not-pending"
+  "timezone": "Europe/Paris"
 }
